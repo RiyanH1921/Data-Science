@@ -2,4 +2,6 @@ ILMU DATA
 - Paham basis Data
 - Pengolahan Data 
 - Sturktur Data
-
+- Ilmu Science
+- Ilmu Komputer
+- Komputer Science
